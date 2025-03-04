@@ -29,8 +29,8 @@ Also, this Arduino project is in compliance with our subject, Application Develo
    - Place the balls into the feeder, and the system will sort **red** and **blue** balls accordingly.  
 
 ## 📸 Documentation  
-- **Videos:** [videos](documentation/videos)  
-- **Images:** [images](documentation/images)  
+- [**Videos**](documentation/videos)  
+- [**Images**](documentation/images)  
 
 ## 📖 Code  
 The main Arduino code for the project can be found in `color-ball-sorter.ino`.  
