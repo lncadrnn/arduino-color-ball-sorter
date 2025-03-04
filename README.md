@@ -42,6 +42,7 @@ The main Arduino code for the project can be found in `color-ball-sorter.ino`.
 
 ## 👥 Contributors  
 - [**Lance Adrian Acal**](github.com/lncadrnn)
-- [**Rejay Buta**](https://github.com/Nakk00) 
+- [**Rejay Buta**](https://github.com/Nakk00)
+- [**Cedrick Delgado**](https://github.com/r3tr0taku) 
 - **Carlo Jose Anyayahan**
-- **John Cedrick Delgado** 
+
